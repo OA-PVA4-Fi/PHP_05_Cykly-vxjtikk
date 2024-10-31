@@ -39,5 +39,7 @@ $city = array(
 );
 
 //reseni
-
+foreach ($city as $value) {
+    echo $value .'<br />';
+}
 ?>
